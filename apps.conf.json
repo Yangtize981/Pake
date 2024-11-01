@@ -1,12 +1,6 @@
 {
   "apps": [
     {
-      "name": "programmusic",
-      "title": "ProgramMusic",
-      "name_zh": "ProgramMusic",
-      "url": "https://musicforprogramming.net/"
-    },
-    {
       "name": "twitter",
       "title": "Twitter",
       "name_zh": "推特",
@@ -19,34 +13,10 @@
       "url": "https://www.youtube.com"
     },
     {
-      "name": "coderunner",
-      "title": "CodeRunner",
-      "name_zh": "CodeRunner",
-      "url": "https://riju.codes/"
-    },
-    {
       "name": "chatgpt",
       "title": "ChatGPT",
       "name_zh": "ChatGPT",
       "url": "https://chat.openai.com/chat"
-    },
-    {
-      "name": "flomo",
-      "title": "Flomo",
-      "name_zh": "浮墨",
-      "url": "https://v.flomoapp.com/mine"
-    },
-    {
-      "name": "qwerty",
-      "title": "Qwerty",
-      "name_zh": "Qwerty",
-      "url": "https://qwerty.kaiyi.cool/"
-    },
-    {
-      "name": "lizhi",
-      "title": "LiZhi",
-      "name_zh": "李志",
-      "url": "https://lizhi.turkyden.com/?from=pake"
     },
     {
       "name": "xiaohongshu",
@@ -61,16 +31,16 @@
       "url": "https://poe.com/"
     },
     {
-      "name": "youtubemusic",
-      "title": "YouTubeMusic",
-      "name_zh": "YouTubeMusic",
-      "url": "https://music.youtube.com/"
+      "name": "tiktok",
+      "title": "Tiktok",
+      "name_zh": "Tiktok",
+      "url": "https://www.tiktok.com/"
     },
     {
-      "name": "weread",
-      "title": "WeRead",
-      "name_zh": "微信阅读",
-      "url": "https://weread.qq.com/"
+      "name": "instagram",
+      "title": "Instagram",
+      "name_zh": "Instagram",
+      "url": "https://www.instagram.com/"
     }
   ]
 }
